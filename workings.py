@@ -21,3 +21,10 @@ print(list_num([1,2,3]))
 def get_max(num):
     return max(num)
 print(get_max([1,5,7,30,78]))
+
+
+#Write a function that takes a number and returns its square.
+def square_num(n):
+    result=n*n
+    return result
+print(square_num(4))
