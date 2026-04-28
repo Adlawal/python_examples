@@ -1,0 +1,5 @@
+#Write a function that takes a name and prints: "Hello, <name>".
+def greet(name):
+    print('hello', name)
+greet("Tomiwa")
+greet('Tola')
